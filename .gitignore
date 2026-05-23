@@ -10,5 +10,3 @@ data/*
 models/*
 !models/.gitkeep
 
-plots/*
-!plots/.gitkeep
