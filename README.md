@@ -380,3 +380,7 @@ cats-vs-dogs-image-classification-pytorch/
 - How transfer learning works
 - Why pretrained ResNet18 performs much better than a small CNN trained from scratch
 - How to save model weights and prediction plots
+
+```
+The dataset is not included in this repository because it is large. Download the Kaggle Cats and Dogs dataset and place it in the data/ folder using the structure below.
+```
