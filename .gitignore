@@ -3,5 +3,12 @@
 __pycache__/
 *.pyc
 .DS_Store
-data/
-models/*.pth
+
+data/*
+!data/.gitkeep
+
+models/*
+!models/.gitkeep
+
+plots/*
+!plots/.gitkeep
